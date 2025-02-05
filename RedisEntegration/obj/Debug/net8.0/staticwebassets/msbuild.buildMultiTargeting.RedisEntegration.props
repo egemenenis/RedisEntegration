@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RedisEntegration.props" />
+</Project>

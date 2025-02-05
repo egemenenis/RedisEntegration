@@ -1,0 +1,12 @@
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\bin\Debug\net8.0\RedisEntegration.Business.deps.json
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\bin\Debug\net8.0\RedisEntegration.Business.dll
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\bin\Debug\net8.0\RedisEntegration.Business.pdb
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\obj\Debug\net8.0\RedisEntegration.Business.csproj.AssemblyReference.cache
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\obj\Debug\net8.0\RedisEntegration.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\obj\Debug\net8.0\RedisEntegration.Business.AssemblyInfoInputs.cache
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\obj\Debug\net8.0\RedisEntegration.Business.AssemblyInfo.cs
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\obj\Debug\net8.0\RedisEntegration.Business.csproj.CoreCompileInputs.cache
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\obj\Debug\net8.0\RedisEntegration.Business.dll
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\obj\Debug\net8.0\refint\RedisEntegration.Business.dll
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\obj\Debug\net8.0\RedisEntegration.Business.pdb
+C:\Users\egemen.ertas\Desktop\reddis\RedisEntegration\RedisEntegration.Business\obj\Debug\net8.0\ref\RedisEntegration.Business.dll

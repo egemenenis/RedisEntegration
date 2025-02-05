@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YWszNmKGhnIwREW6o4mi9TPk8siN4hgq0D85DiO/AlQ=",
+  "Source": "RedisEntegration",
+  "BasePath": "_content/RedisEntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
